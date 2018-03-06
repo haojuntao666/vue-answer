@@ -16,10 +16,10 @@
 ## 项目运行（nodejs 6.0+）
 ``` bash
 # 克隆到本地
-git clone https://github.com/bailicangdu/vue2-happyfri.git
+git clone https://github.com/haojuntao666/vue-answer.git
 
 # 进入文件夹
-cd vue2-happyfri
+cd vue-answer
 
 # 安装依赖
 npm install
@@ -34,9 +34,6 @@ npm run build
 
 
 # 效果演示
-
-
-[demo地址](http://cangdu.org/happyfri/)（请用chrome手机模式预览）
    
 ### 移动端扫描下方二维码
 <img src='https://github.com/bailicangdu/vue2-happyfri/blob/master/src/images/ewm.png' width="300" height="300" />
